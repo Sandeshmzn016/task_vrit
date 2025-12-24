@@ -1,0 +1,13 @@
+{
+    "firstName": "Sandesh",
+    "lastName": "Maharjan",
+    "phoneNumber": "9849810165",
+    "password": "Signup@12",
+    "confirmPassword": "Signup@12",
+    "agencyName": "SandeshAgency",
+    "agencyRole": "Head of Department",
+    "agencyEmail": "sandes.mzn@gmail.com",
+    "agencyWeb": "example.com",
+    "agencyAddress": "Kathmandu, Nepal"
+}
+
